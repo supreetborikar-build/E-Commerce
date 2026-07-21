@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ord-8801",
+    "orderNumber": "NVM-2026-8801",
+    "customerName": "Elena Vance",
+    "customerEmail": "elena.vance@techcorp.io",
+    "items": [
+      {
+        "id": "cart-item-1",
+        "product": {
+          "id": "nova-ring-air",
+          "name": "Nova Ring Air",
+          "slug": "nova-ring-air",
+          "tagline": "Continuous biometric tracking & sleep recovery in grade-5 titanium.",
+          "description": "Forged from grade-5 titanium...",
+          "price": 349,
+          "category": "wearable-tech",
+          "categoryName": "Wearable Bio Tech",
+          "brand": "Nova Labs",
+          "rating": 4.9,
+          "reviewCount": 128,
+          "stock": 14,
+          "thumbnail": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=800&auto=format&fit=crop",
+          "images": ["https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=800&auto=format&fit=crop"],
+          "specifications": [],
+          "tags": ["biometrics"],
+          "createdAt": "2026-05-10T10:00:00Z"
+        },
+        "selectedVariant": {
+          "id": "v1",
+          "name": "Matte Obsidian / Size 9",
+          "sku": "NRA-BLK-9",
+          "price": 349,
+          "stock": 5
+        },
+        "quantity": 1,
+        "addedAt": "2026-07-15T10:30:00Z"
+      }
+    ],
+    "subtotal": 349,
+    "discount": 35,
+    "shippingFee": 0,
+    "tax": 25.12,
+    "total": 339.12,
+    "status": "delivered",
+    "shippingAddress": {
+      "fullName": "Elena Vance",
+      "email": "elena.vance@techcorp.io",
+      "phone": "+1 (555) 234-5678",
+      "street": "77 Innovation Way, Suite 404",
+      "city": "San Francisco",
+      "state": "CA",
+      "postalCode": "94107",
+      "country": "United States"
+    },
+    "paymentInfo": {
+      "method": "nova-wallet",
+      "cardLast4": "9012",
+      "paidAt": "2026-07-15T10:32:00Z"
+    },
+    "trackingNumber": "NVM-TRK-990812",
+    "estimatedDelivery": "2026-07-18",
+    "createdAt": "2026-07-15T10:32:00Z",
+    "updatedAt": "2026-07-18T14:20:00Z"
+  },
+  {
+    "id": "ord-8802",
+    "orderNumber": "NVM-2026-8802",
+    "customerName": "Marcus Sterling",
+    "customerEmail": "marcus.s@designstudio.com",
+    "items": [
+      {
+        "id": "cart-item-2",
+        "product": {
+          "id": "quantum-sound-pods-pro",
+          "name": "Acoustic Pods Pro",
+          "slug": "acoustic-pods-pro",
+          "tagline": "Lossless acoustic drivers with adaptive neural noise cancellation.",
+          "description": "Featuring custom 12mm graphene...",
+          "price": 249,
+          "category": "audio-gear",
+          "categoryName": "Audio & Acoustics",
+          "brand": "Acoustix",
+          "rating": 4.7,
+          "reviewCount": 210,
+          "stock": 35,
+          "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+          "images": ["https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop"],
+          "specifications": [],
+          "tags": ["audio"],
+          "createdAt": "2026-04-18T08:00:00Z"
+        },
+        "quantity": 2,
+        "addedAt": "2026-07-19T09:00:00Z"
+      }
+    ],
+    "subtotal": 498,
+    "discount": 0,
+    "shippingFee": 15,
+    "tax": 41.04,
+    "total": 554.04,
+    "status": "shipped",
+    "shippingAddress": {
+      "fullName": "Marcus Sterling",
+      "email": "marcus.s@designstudio.com",
+      "phone": "+1 (555) 876-5432",
+      "street": "100 Quantum Way, Apt 12B",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": "98101",
+      "country": "United States"
+    },
+    "paymentInfo": {
+      "method": "credit-card",
+      "cardLast4": "4242",
+      "paidAt": "2026-07-19T09:05:00Z"
+    },
+    "trackingNumber": "NVM-TRK-771239",
+    "estimatedDelivery": "2026-07-22",
+    "createdAt": "2026-07-19T09:05:00Z",
+    "updatedAt": "2026-07-20T08:15:00Z"
+  }
+]

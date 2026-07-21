@@ -1,0 +1,31 @@
+[
+  {
+    "id": "coup-1",
+    "code": "NOVA2026",
+    "discountPercentage": 15,
+    "maxDiscount": 100,
+    "minSpend": 150,
+    "validUntil": "2026-12-31",
+    "usageCount": 342,
+    "active": true
+  },
+  {
+    "id": "coup-2",
+    "code": "CYBER10",
+    "discountPercentage": 10,
+    "minSpend": 50,
+    "validUntil": "2026-09-30",
+    "usageCount": 890,
+    "active": true
+  },
+  {
+    "id": "coup-3",
+    "code": "NEURAL25",
+    "discountPercentage": 25,
+    "maxDiscount": 150,
+    "minSpend": 300,
+    "validUntil": "2026-08-15",
+    "usageCount": 120,
+    "active": true
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "nova-ring-air",
+    "name": "Nova Ring Air",
+    "slug": "nova-ring-air",
+    "tagline": "Continuous biometric tracking & sleep recovery in grade-5 titanium.",
+    "description": "Forged from grade-5 titanium with a hyper-polished ceramic liner, Nova Ring Air tracks heart rate variability, skin temperature, sleep stages, and daily physical readiness with sub-millimeter precision.",
+    "price": 349,
+    "compareAtPrice": 399,
+    "category": "wearable-tech",
+    "categoryName": "Wearable Bio Tech",
+    "brand": "Nova Labs",
+    "rating": 4.9,
+    "reviewCount": 128,
+    "stock": 14,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "onSale": true,
+    "thumbnail": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "variants": [
+      { "id": "v1", "name": "Matte Obsidian / Size 9", "sku": "NRA-BLK-9", "price": 349, "color": "Matte Obsidian", "size": "9", "stock": 5 },
+      { "id": "v2", "name": "Deep Graphite / Size 10", "sku": "NRA-GRP-10", "price": 369, "color": "Deep Graphite", "size": "10", "stock": 4 },
+      { "id": "v3", "name": "Raw Titanium / Size 8", "sku": "NRA-RAW-8", "price": 349, "color": "Raw Titanium", "size": "8", "stock": 5 }
+    ],
+    "specifications": [
+      { "name": "Material", "value": "Grade-5 Titanium & Bio-Ceramic Coating" },
+      { "name": "Battery Life", "value": "7 Days Continuous Sensor Tracking" },
+      { "name": "Water Rating", "value": "100 Meters Waterproof (10 ATM)" },
+      { "name": "Sensors", "value": "Optical PPG, Galvanic Skin Sensor, Accelerometer" }
+    ],
+    "tags": ["smart ring", "biometrics", "titanium", "health"],
+    "createdAt": "2026-05-10T10:00:00Z"
+  },
+  {
+    "id": "holosphere-3d-viewport",
+    "name": "HoloSphere 3D Lightfield Display",
+    "slug": "holosphere-3d-lightfield-display",
+    "tagline": "Glasses-free 8K volumetric spatial monitor for design & 3D modeling.",
+    "description": "Project true physical spatial depth directly on your desk without headset fatigue. The HoloSphere uses eye-tracking lenticular optics to render 120 million light vectors in real time.",
+    "price": 1499,
+    "compareAtPrice": 1799,
+    "category": "spatial-displays",
+    "categoryName": "Spatial Displays",
+    "brand": "Visionary Tech",
+    "rating": 4.8,
+    "reviewCount": 84,
+    "stock": 8,
+    "isFeatured": true,
+    "isNew": true,
+    "onSale": true,
+    "thumbnail": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": [
+      { "name": "Resolution", "value": "8K Volumetric Array (7680 x 4320)" },
+      { "name": "Refresh Rate", "value": "144 Hz Spatial Eye-Tracked Display" },
+      { "name": "Connectivity", "value": "Thunderbolt 4 / DisplayPort 2.1" }
+    ],
+    "tags": ["spatial", "3d", "lightfield", "display"],
+    "createdAt": "2026-06-01T12:00:00Z"
+  },
+  {
+    "id": "quantum-sound-pods-pro",
+    "name": "Acoustic Pods Pro",
+    "slug": "acoustic-pods-pro",
+    "tagline": "Lossless acoustic drivers with adaptive neural noise cancellation.",
+    "description": "Featuring custom 12mm graphene resonance drivers and adaptive noise cancellation that isolates up to -52dB of background noise without sacrificing vocal clarity.",
+    "price": 249,
+    "compareAtPrice": 299,
+    "category": "audio-gear",
+    "categoryName": "Audio & Acoustics",
+    "brand": "Acoustix",
+    "rating": 4.7,
+    "reviewCount": 210,
+    "stock": 35,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?q=80&w=800&auto=format&fit=crop"
+    ],
+    "variants": [
+      { "id": "qa1", "name": "Matte Teal", "sku": "APP-TEAL", "price": 249, "color": "Matte Teal", "stock": 20 },
+      { "id": "qa2", "name": "Dark Charcoal", "sku": "APP-CHAR", "price": 249, "color": "Dark Charcoal", "stock": 15 }
+    ],
+    "specifications": [
+      { "name": "Driver Type", "value": "12mm Graphene Resonance Engine" },
+      { "name": "ANC Depth", "value": "-52dB Adaptive Active Noise Cancellation" },
+      { "name": "Battery Life", "value": "38 Hours Total (Wireless Charging Case)" }
+    ],
+    "tags": ["audio", "anc", "earbuds", "wireless"],
+    "createdAt": "2026-04-18T08:00:00Z"
+  },
+  {
+    "id": "exothermo-jacket",
+    "name": "ExoThermo Climate Shell",
+    "slug": "exothermo-climate-shell",
+    "tagline": "Micro-fluidic active heating & cooling woven into waterproof Cordura.",
+    "description": "Seamlessly maintain thermal comfort in extreme weather. ExoThermo regulates core warmth via internal fluid channels powered by a compact lithium-graphene power cell.",
+    "price": 499,
+    "category": "outerwear-apparel",
+    "categoryName": "Outerwear & Apparel",
+    "brand": "CyberWeave",
+    "rating": 4.9,
+    "reviewCount": 95,
+    "stock": 19,
+    "isFeatured": true,
+    "isNew": true,
+    "thumbnail": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?q=80&w=800&auto=format&fit=crop"
+    ],
+    "variants": [
+      { "id": "ex1", "name": "Size M - Stealth Black", "sku": "ETC-M-BLK", "price": 499, "size": "M", "color": "Stealth Black", "stock": 10 },
+      { "id": "ex2", "name": "Size L - Stealth Black", "sku": "ETC-L-BLK", "price": 499, "size": "L", "color": "Stealth Black", "stock": 9 }
+    ],
+    "specifications": [
+      { "name": "Thermal Range", "value": "-10°C to 40°C Core Regulation" },
+      { "name": "Shell Material", "value": "Triple-layer Waterproof Cordura Nanofiber" },
+      { "name": "Power Cell", "value": "10,000 mAh Ultra-thin Power Bank Included" }
+    ],
+    "tags": ["jacket", "climate", "techwear", "outerwear"],
+    "createdAt": "2026-06-20T14:30:00Z"
+  },
+  {
+    "id": "aether-lighting-column",
+    "name": "Aether Ambient Light Column",
+    "slug": "aether-ambient-light-column",
+    "tagline": "Circadian atmospheric lighting synchronized to your daily focus & rest rhythm.",
+    "description": "Crafted from smoked glass and brushed matte aluminum, Aether provides smooth 16-million-color lighting transitions that sync with your schedule and room ambience.",
+    "price": 289,
+    "compareAtPrice": 349,
+    "category": "smart-home",
+    "categoryName": "Smart Living",
+    "brand": "Aether Home",
+    "rating": 4.6,
+    "reviewCount": 62,
+    "stock": 22,
+    "isFeatured": false,
+    "onSale": true,
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": [
+      { "name": "Max Output", "value": "2200 Lumens Full RGBW Spectrum" },
+      { "name": "Smart Integration", "value": "Matter, Apple HomeKit, Google Home" }
+    ],
+    "tags": ["lighting", "smart home", "ambient"],
+    "createdAt": "2026-03-12T09:15:00Z"
+  },
+  {
+    "id": "orbit-flight-sling",
+    "name": "Orbit-X Carbon Fiber Sling",
+    "slug": "orbit-x-carbon-fiber-sling",
+    "tagline": "Weather-sealed RFID sling bag with magnetic Fidlock closure.",
+    "description": "Built for urban commuters and travel. Features 3K carbon fiber paneling, YKK waterproof zippers, magnetic quick-release buckle, and dedicated padded tablet sleeve.",
+    "price": 169,
+    "category": "edc-accessories",
+    "categoryName": "EDC & Travel Gear",
+    "brand": "Orbit Gear",
+    "rating": 4.8,
+    "reviewCount": 142,
+    "stock": 42,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": [
+      { "name": "Capacity", "value": "6.0 Liters Modular Volume" },
+      { "name": "Shell", "value": "3K Twill Carbon Fiber & 1000D Cordura" }
+    ],
+    "tags": ["bag", "carbon fiber", "accessories", "travel"],
+    "createdAt": "2026-05-25T11:00:00Z"
+  },
+  {
+    "id": "aeroglass-hud-spectacles",
+    "name": "AeroGlass AR Spectacles",
+    "slug": "aeroglass-ar-spectacles",
+    "tagline": "Lightweight micro-OLED smart glasses with live heads-up translation.",
+    "description": "At just 42 grams, AeroGlass projects turn-by-turn navigation, incoming messages, and live speech captions directly into your field of view.",
+    "price": 699,
+    "compareAtPrice": 799,
+    "category": "wearable-tech",
+    "categoryName": "Wearable Bio Tech",
+    "brand": "Nova Labs",
+    "rating": 4.7,
+    "reviewCount": 54,
+    "stock": 11,
+    "isFeatured": false,
+    "isNew": true,
+    "onSale": true,
+    "thumbnail": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": [
+      { "name": "Displays", "value": "Dual 1080p Micro-OLED Waveguide Optics" },
+      { "name": "Frame Weight", "value": "42g Ergonomic Titanium Alloy Frame" }
+    ],
+    "tags": ["ar", "glasses", "wearable", "hud"],
+    "createdAt": "2026-07-02T16:00:00Z"
+  },
+  {
+    "id": "matrix-pulse-runners",
+    "name": "Pulse Runner Pro Sneakers",
+    "slug": "pulse-runner-pro-sneakers",
+    "tagline": "Motorized cable fit adjustment with dynamic responsive cushioning.",
+    "description": "Step in and let the internal motor auto-tension the laces around your foot shape. Nitrogen-injected foam midsoles maximize energy return with every stride.",
+    "price": 329,
+    "category": "outerwear-apparel",
+    "categoryName": "Outerwear & Apparel",
+    "brand": "CyberWeave",
+    "rating": 4.9,
+    "reviewCount": 178,
+    "stock": 25,
+    "isFeatured": true,
+    "isBestSeller": true,
+    "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop"
+    ],
+    "specifications": [
+      { "name": "Lacing", "value": "Automatic Cable Tensioning Motor" },
+      { "name": "Cushioning", "value": "Pneumatic Nitrogen Foam Outsole" }
+    ],
+    "tags": ["sneakers", "footwear", "apparel"],
+    "createdAt": "2026-04-05T10:20:00Z"
+  }
+]
